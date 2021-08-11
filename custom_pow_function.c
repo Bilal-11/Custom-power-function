@@ -5,7 +5,9 @@ int power(int,int);
 
 int main()
 {
-
+/*Add code to accept user input for a number and the power to which it is raised.
+Both inputs should be integer. Use the power function I made to perform the
+exponentiation. Display the result*/
   return 0;
 }
 
